@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Anton Isupov\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Anton Isupov\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_CGL2.1990479582.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master" t="IncludeFlat">
+      <e p="CGL2" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CGL2.csproj" t="IncludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+      <e p="CGL2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

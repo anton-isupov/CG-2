@@ -1,0 +1,49 @@
+C:\Users\3a2b\Desktop\CGL2\CGL2\bin\Debug\CGL2.exe.config
+C:\Users\3a2b\Desktop\CGL2\CGL2\bin\Debug\CGL2.exe
+C:\Users\3a2b\Desktop\CGL2\CGL2\bin\Debug\CGL2.pdb
+C:\Users\3a2b\Desktop\CGL2\CGL2\bin\Debug\OpenTK.dll
+C:\Users\3a2b\Desktop\CGL2\CGL2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\3a2b\Desktop\CGL2\CGL2\bin\Debug\OpenTK.pdb
+C:\Users\3a2b\Desktop\CGL2\CGL2\bin\Debug\OpenTK.xml
+C:\Users\3a2b\Desktop\CGL2\CGL2\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\3a2b\Desktop\CGL2\CGL2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\3a2b\Desktop\CGL2\CGL2\obj\Debug\CGL2.csprojAssemblyReference.cache
+C:\Users\3a2b\Desktop\CGL2\CGL2\obj\Debug\CGL2.Form1.resources
+C:\Users\3a2b\Desktop\CGL2\CGL2\obj\Debug\CGL2.Properties.Resources.resources
+C:\Users\3a2b\Desktop\CGL2\CGL2\obj\Debug\CGL2.csproj.GenerateResource.cache
+C:\Users\3a2b\Desktop\CGL2\CGL2\obj\Debug\CGL2.csproj.CopyComplete
+C:\Users\3a2b\Desktop\CGL2\CGL2\obj\Debug\CGL2.exe
+C:\Users\3a2b\Desktop\CGL2\CGL2\obj\Debug\CGL2.pdb
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\bin\Debug\CGL2.exe.config
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\bin\Debug\CGL2.exe
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\bin\Debug\CGL2.pdb
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\bin\Debug\OpenTK.dll
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\bin\Debug\OpenTK.pdb
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\bin\Debug\OpenTK.xml
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\obj\Debug\CGL2.csprojAssemblyReference.cache
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\obj\Debug\CGL2.Form1.resources
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\obj\Debug\CGL2.Properties.Resources.resources
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\obj\Debug\CGL2.csproj.GenerateResource.cache
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\obj\Debug\CGL2.csproj.CopyComplete
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\obj\Debug\CGL2.exe
+C:\Users\3a2b\Desktop\CG-Lab-2\CGL2\obj\Debug\CGL2.pdb
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\bin\Debug\CGL2.exe.config
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\bin\Debug\CGL2.exe
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\bin\Debug\CGL2.pdb
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\bin\Debug\OpenTK.dll
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\bin\Debug\OpenTK.pdb
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\bin\Debug\OpenTK.xml
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\obj\Debug\CGL2.csprojAssemblyReference.cache
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\obj\Debug\CGL2.Form1.resources
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\obj\Debug\CGL2.Properties.Resources.resources
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\obj\Debug\CGL2.csproj.GenerateResource.cache
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\obj\Debug\CGL2.csproj.CoreCompileInputs.cache
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\obj\Debug\CGL2.csproj.CopyComplete
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\obj\Debug\CGL2.exe
+C:\Users\Anton Isupov\Downloads\CG-Lab-2-master\CG-Lab-2-master\CGL2\obj\Debug\CGL2.pdb
